@@ -42,7 +42,7 @@
 | 15 | [Compute Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/15-Compute-Services) |
 | 16 | [Database Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/16-Database-Services) |
 | 17 | [Network Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/17-Network-Services) |
-| 18 | [Storage Services]() |
+| 18 | [Storage Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/18-Storage-Services) |
 | 19 | [AI, Machine Learning Services]() |
 | 20 | [Analytics Services]() |
 | 21 | [Other AWS Services]() |
