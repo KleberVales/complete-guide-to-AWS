@@ -22,7 +22,7 @@
 
 ---
 
-## 03 Security and Compliance
+## 03 Governance, Compliance, and Security
 
 | Nº | Pages |
 |----|--------|
