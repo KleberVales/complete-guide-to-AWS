@@ -62,7 +62,7 @@ Kleber Vales
 
 Java & Spring Software Engineer
 
-Cloud | DevOps | Git/Github | Docker | Kubernetes | JUnit 5 
+Cloud | DevOps | Git/Github | Docker | Kubernetes | JUnit 5 | Generative AI
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
