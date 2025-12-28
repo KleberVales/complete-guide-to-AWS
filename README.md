@@ -43,9 +43,8 @@
 | 16 | [Database Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/16-Database-Services) |
 | 17 | [Network Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/17-Network-Services) |
 | 18 | [Storage Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/18-Storage-Services) |
-| 19 | [AI, Machine Learning Services]() |
-| 20 | [Analytics Services]() |
-| 21 | [Other AWS Services]() |
+| 19 | [AI, Machine Learning Services and Analytics Services]() |
+| 20 | [Other AWS Services]() |
 
 ---
 
@@ -53,9 +52,9 @@
 
 | Nº | Pages |
 |----|--------|
-| 22 | [Pricing Models]() |
-| 23 | [Cost Management]() |
-| 24 | [Support and Technical Resources]() |
+| 21 | [Pricing Models]() |
+| 22 | [Cost Management]() |
+| 23 | [Support and Technical Resources]() |
 
 ---
 
