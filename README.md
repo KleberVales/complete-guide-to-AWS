@@ -53,7 +53,7 @@
 | Nº | Pages |
 |----|--------|
 | 21 | [Pricing Models]() |
-| 22 | [Cost Management]() |
+| 22 | [Cost Management](https://github.com/KleberVales/complete-guide-to-AWS/wiki/22--Cost-Management) |
 | 23 | [Support and Technical Resources]() |
 
 ---
