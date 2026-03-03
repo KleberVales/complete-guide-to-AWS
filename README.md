@@ -56,6 +56,8 @@
 | 22 | [Cost Management](https://github.com/KleberVales/complete-guide-to-AWS/wiki/22--Cost-Management) |
 | 23 | [Support and Technical Resources](https://github.com/KleberVales/complete-guide-to-AWS/wiki/23-Support-and-Technical-Resources) |
 
+## 06 Design Secure Architectures
+
 ---
 
 ## ✉️ Contact
