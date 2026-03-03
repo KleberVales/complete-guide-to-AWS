@@ -83,7 +83,7 @@
 
 ---
 
-## [09 Design Cost-Optimized Architectures]()
+## [09 Design Cost-Optimized Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/04-Design-Cost%E2%80%90Optimized-Architectures)
 
 32. Design cost-optimized storage solutions
 33. Design cost-optimized compute solutions
