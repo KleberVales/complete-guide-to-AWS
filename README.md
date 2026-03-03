@@ -68,6 +68,8 @@
 
 ---
 
+## 07 Design Resilient Architectures
+
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
