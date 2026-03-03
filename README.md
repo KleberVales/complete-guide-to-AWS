@@ -72,9 +72,9 @@
 
 | Nº | Pages |
 |----|--------|
-| 24 | [Design secure access to AWS resources]() |
-| 25 | [Design secure workloads and applications]() |
-| 26 | [Determine appropriate data security controls]() |
+| 24 | [Design scalable and loosely coupled architectures]() |
+| 25 | []() |
+| 26 | []() |
 
 ## ✉️ Contact
 
