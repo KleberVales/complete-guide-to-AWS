@@ -89,6 +89,17 @@
 
 ---
 
+## 09 Design Cost-Optimized Architectures
+
+| Nº | Pages |
+|----|--------|
+| 32 | []() |
+| 33 | []() |
+| 34 | []() |
+| 35 | []() |
+
+--
+
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
