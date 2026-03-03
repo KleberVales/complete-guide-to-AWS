@@ -85,7 +85,7 @@
 | 28 | [Design high-performing and elastic compute solutions]() |
 | 29 | [Determine high-performing database solutions]() |
 | 30 | [Determine high-performing and/or scalable network architectures]() |
-| 31 | []() |
+| 31 | [Determine high-performing data ingestion and transformation solutions]() |
 
 ---
 
