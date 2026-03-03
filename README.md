@@ -94,7 +94,7 @@
 | Nº | Pages |
 |----|--------|
 | 32 | [Design cost-optimized storage solutions]() |
-| 33 | []() |
+| 33 | [Design cost-optimized compute solutions]() |
 | 34 | []() |
 | 35 | []() |
 
