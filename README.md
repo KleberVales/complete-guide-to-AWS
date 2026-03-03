@@ -73,7 +73,7 @@
 
 ---
 
-## [08 Design High-Performing Architectures]()
+## [08 Design High-Performing Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/03-Design-High%E2%80%90Performing-Architectures)
 
 27. Determine high-performing and/or scalable storage solutions
 28. Design high-performing and elastic compute solutions
