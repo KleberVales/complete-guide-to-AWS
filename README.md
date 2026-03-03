@@ -66,24 +66,20 @@
 
 ---
 
-## 07 Design Resilient Architectures
+## [07 Design Resilient Architectures]()
 
-| Nº | Pages |
-|----|--------|
-| 27 | [Design scalable and loosely coupled architectures]() |
-| 28 | [Design highly available and/or fault-tolerant architectures]() |
+27. Design scalable and loosely coupled architectures
+28. Design highly available and/or fault-tolerant architectures
 
 ---
 
-## 08 Design High-Performing Architectures
+## [08 Design High-Performing Architectures]()
 
-| Nº | Pages |
-|----|--------|
-| 27 | [Determine high-performing and/or scalable storage solutions]() |
-| 28 | [Design high-performing and elastic compute solutions]() |
-| 29 | [Determine high-performing database solutions]() |
-| 30 | [Determine high-performing and/or scalable network architectures]() |
-| 31 | [Determine high-performing data ingestion and transformation solutions]() |
+27. Determine high-performing and/or scalable storage solutions
+28. Design high-performing and elastic compute solutions
+29. Determine high-performing database solutions
+30. Determine high-performing and/or scalable network architectures
+31. Determine high-performing data ingestion and transformation solutions
 
 ---
 
