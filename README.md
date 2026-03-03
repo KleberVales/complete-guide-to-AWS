@@ -60,6 +60,12 @@
 
 ## 06 Design Secure Architectures
 
+| Nº | Pages |
+|----|--------|
+| 21 | [Design secure access to AWS resources]() |
+| 22 | [Design secure workloads and applications]() |
+| 23 | [Determine appropriate data security controls]() |
+
 ---
 
 ## ✉️ Contact
