@@ -77,12 +77,12 @@
 
 ---
 
-## Design High-Performing Architectures
+## 08 Design High-Performing Architectures
 
 | Nº | Pages |
 |----|--------|
-| 27 | [Design scalable and loosely coupled architectures]() |
-| 28 | [Design highly available and/or fault-tolerant architectures]() |
+| 27 | [Determine high-performing and/or scalable storage solutions]() |
+| 28 | []() |
 
 ---
 
