@@ -79,6 +79,11 @@
 
 ## Design High-Performing Architectures
 
+| Nº | Pages |
+|----|--------|
+| 27 | [Design scalable and loosely coupled architectures]() |
+| 28 | [Design highly available and/or fault-tolerant architectures]() |
+
 ---
 
 ## ✉️ Contact
