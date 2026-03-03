@@ -73,7 +73,7 @@
 | Nº | Pages |
 |----|--------|
 | 24 | [Design scalable and loosely coupled architectures]() |
-| 25 | []() |
+| 25 | [Design highly available and/or fault-tolerant architectures]() |
 | 26 | []() |
 
 ## ✉️ Contact
