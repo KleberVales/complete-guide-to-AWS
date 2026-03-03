@@ -66,7 +66,7 @@
 
 ---
 
-## [07 Design Resilient Architectures]()
+## [07 Design Resilient Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/02-Design-Resilient-Architectures)
 
 27. Design scalable and loosely coupled architectures
 28. Design highly available and/or fault-tolerant architectures
