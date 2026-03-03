@@ -62,7 +62,7 @@
 
 | Nº | Pages |
 |----|--------|
-| 24 | [Design secure access to AWS resources]() |
+| 24 | [Design secure access to AWS resources](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures) |
 | 25 | [Design secure workloads and applications]() |
 | 26 | [Determine appropriate data security controls]() |
 
