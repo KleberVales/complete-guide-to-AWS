@@ -84,6 +84,8 @@
 | 27 | [Determine high-performing and/or scalable storage solutions]() |
 | 28 | [Design high-performing and elastic compute solutions]() |
 | 29 | [Determine high-performing database solutions]() |
+| 30 | []() |
+
 
 ---
 
