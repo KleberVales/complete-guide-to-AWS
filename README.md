@@ -96,7 +96,7 @@
 | 32 | [Design cost-optimized storage solutions]() |
 | 33 | [Design cost-optimized compute solutions]() |
 | 34 | [Design cost-optimized database solutions]() |
-| 35 | []() |
+| 35 | [Design cost-optimized network architectures]() |
 
 ---
 
