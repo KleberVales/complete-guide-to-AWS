@@ -90,3 +90,9 @@
 34. Design cost-optimized database solutions
 35. Design cost-optimized network architectures
 
+---
+
+https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html
+
+
+
