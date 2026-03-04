@@ -105,4 +105,3 @@ Java & Spring Software Engineer | Cloud-Native & Event-Driven Architectures
 Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Generative AI 
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
-🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
