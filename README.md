@@ -90,6 +90,3 @@
 34. Design cost-optimized database solutions
 35. Design cost-optimized network architectures
 
----
-
-## ✉️ Contact
