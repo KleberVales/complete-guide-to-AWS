@@ -95,5 +95,3 @@
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
-
-**Kleber Vales**
