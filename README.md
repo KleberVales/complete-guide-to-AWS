@@ -1,4 +1,4 @@
-# Complete guide to AWS
+8# Complete guide to AWS
 
 ## 01 Introduction to cloud computing
 
@@ -117,6 +117,6 @@ Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Scrum | Gene
 🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
 🎓 **Bachelor's Degree in Computer Science**  
-🎓 **MBA in Web Software Development**
+
 
 
