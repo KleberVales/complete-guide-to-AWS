@@ -1,4 +1,4 @@
-8# Complete guide to AWS
+# Complete guide to AWS
 
 ## 01 Introduction to cloud computing
 
