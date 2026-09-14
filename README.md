@@ -95,7 +95,7 @@
 
 Kleber Vales
 
-Spring & Java Software Engineer
+Software Engineer & AI Agent 
 
 cloud | DevOps | Generative AI | Agile
 
