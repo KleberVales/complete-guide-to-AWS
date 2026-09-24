@@ -99,7 +99,7 @@
 
 **Java & Spring Software Engineer**
 
-DevOps | Cloud | Generative AI | Methodologies | Architecture
+DevOps | Cloud | Generative AI | Methodologies | Architectures
 
 🎓  **Bachelor's Degrees in Computer Science**\
 🎓  **MBA in Web Software Development** 
