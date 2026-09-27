@@ -95,17 +95,18 @@
 
 ---
 
+### ✉️ Contact
+
 ### Kleber Vales
 
 **Java & Spring Software Engineer**
 
-DevOps | Cloud | Generative AI | Methodologies | Architectures
+| DevOps | Cloud | Generative AI | Methodologies | Architectures |
 
 🎓  **Bachelor's Degrees in Computer Science**\
 🎓  **MBA in Web Software Development** 
 
 Certifications
-
 🏆 Oracle Certified Associate: Java 7 Programmer \
 🏆 Microsoft Technology Associate: Software 🏆 Development Fundamentals\
 🏆 Scrum Fundamentals Certified (SFC™)\
