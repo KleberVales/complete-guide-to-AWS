@@ -113,6 +113,7 @@
 🏆 **OCI Architect Associate**  
 🏆 **OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
+🏆 **OCI AI Foundations Associate | Agentic AI Certified Fundations Associate**
 
 
 
