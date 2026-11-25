@@ -109,7 +109,8 @@
 
 **Certifications**
 
-🏆 **OCI 2025 – DevOps Professional |
+🏆 **OCI 2025 – DevOps Professional | Generative AI Professional**  
+
 
 
 
